@@ -1,0 +1,22 @@
+{
+  "name": "ivy",
+  "version": "1.0.0",
+  "description": "Ivy's always doing challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drew-wright/Ivy.git"
+  },
+  "author": "Drew Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drew-wright/Ivy/issues"
+  },
+  "homepage": "https://github.com/drew-wright/Ivy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
